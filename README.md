@@ -1,7 +1,7 @@
-# ShieldApp
+ShieldApp
 Console app for managing Avengers
 
-###I/O examples for the console application
+##I/O examples for the console application
 
 =======------S.H.I.E.L.D ------=========
 Welcome to Captain Fury.
@@ -13,17 +13,17 @@ Welcome to Captain Fury.
 5. Update Mission’s status
 6. List Avengers
 
-Enter the option: 1
-No Mission has been assigned to an Avenger.
+Enter the option: 1\
+No Mission has been assigned to an Avenger.\
 
-Enter the option: 2
-Enter Avengers: Thor, Hawkeye
-Enter Mission Name: Find the Space Infinity Stone
+Enter the option: 2\
+Enter Avengers: Thor, Hawkeye\
+Enter Mission Name: Find the Space Infinity Stone\
 Enter Mission Details: Loki has stolen the Space Infinity Stone which needs to be captured
-ASAP.
-Mission has been assigned.
-Email notification sent and/or
-SMS notification sent.
+ASAP.\
+Mission has been assigned.\
+Email notification sent\
+SMS notification sent.\
 
 Enter the option: 2
 Enter Avengers: Black Widow, Hawkeye

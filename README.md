@@ -40,30 +40,30 @@ Sorry, Hawkeye has already been working on two missions.
 Enter the option: 1\
 Mission Name | Status | Avengers\
 Find the Space Infinity Stone | Assigned | Thor, Hawkeye\
-Get the Hulk back. | Assigned | Black Widow, Hawkeye\
+Get the Hulk back. | Assigned | Black Widow, Hawkeye
 
 Enter the option: 3\
 Enter Mission Name: Get the Hulk back\
 Mission Details: Hulk has gone underground again, please find him and bring him back.
 Mission Status: Assigned\
-Avengers: Black Widow, Hawkeye\
+Avengers: Black Widow, Hawkeye
 
 Enter the option: 4\
 Enter Avenger Name: Iron Man\
 Person Name: Tony Stark\
 Abilities: Highly Intelligent Suit of Armor\
 Mission Assigned : 0\
-Mission Completed : 0\
+Mission Completed : 0
 
 Enter the option: 5\
 Enter Mission Name: Get the Hulk back\
 Enter new status: Completed\
-Email and Sms are sent to Black Widow, Hawkeye\
+Email and Sms are sent to Black Widow, Hawkeye
 
 Enter the option: 1\
 Mission Name | Status | Avengers\
 Find the Space Infinity Stone | Assigned | Thor, Hawkeye\
-Get the Hulk back. | Completed | Black Widow, Hawkeye\
+Get the Hulk back. | Completed | Black Widow, Hawkeye
 
 Enter the option: 6\
 Avenger Name | Status | Assigned Mission\

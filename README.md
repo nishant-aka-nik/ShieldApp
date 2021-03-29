@@ -74,4 +74,4 @@ Hulk | Available\
 Thor | On Mision | Find the Space Infinity Stone\
 Hawkeye | On Mission | Find the Space Infinity Stone, Get the Hulk
 back\
-Black Widow | Available | Get the Hulk back\
+Black Widow | Available | Get the Hulk back

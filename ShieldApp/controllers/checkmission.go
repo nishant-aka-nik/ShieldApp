@@ -22,6 +22,7 @@ func CheckMission() {
 		}
 
 		fmt.Println("=========End of missions=================")
+		fmt.Println("=========End of mission Captain=================")
 	}
 
 }
